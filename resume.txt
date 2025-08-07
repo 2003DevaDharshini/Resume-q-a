@@ -1,0 +1,4 @@
+I am Devadharshini, a Computer Science and Engineering (Data Science) student at Annamalai University, graduating in May 2025. 
+I have completed internships in Machine Learning, Python Development, Web Development, and Data Science. 
+I am skilled in Python, Java, HTML, CSS, ReactJS, TensorFlow, Keras, Power BI, and SQL. 
+My projects include Sentiment Analysis, Animal Image Classifier, a Chatbot, and Sales Performance Dashboards.
