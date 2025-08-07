@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+llama-index
+google-generativeai
+python-dotenv
+jinja2
